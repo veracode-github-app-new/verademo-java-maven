@@ -39,7 +39,7 @@ To run Verademo [MySQL](https://www.mysql.com/) and [Tomcat](https://tomcat.apac
 The simplest way to aquire these on MacOS is via [Homebrew](http://brew.sh/). Install Homebrew then:
 
     brew install mysql tomcat
-
+ 
 ### Database
 
 Set up a database in MySQL called `blab` with a user of `blab` and password `z2^E6J4$;u;d`
