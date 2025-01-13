@@ -1,18 +1,19 @@
 # VeraDemo - Blab-a-Gag
 
 ## About
- 
+  
 Blab-a-Gag is a fairly simple forum type application which allows:
  - users to post a one-liner joke
  - users to follow the jokes of other users or not (listen or ignore)
- - users to comment on other us 
+ - users to comment on other us  
  
-### URLs 
+### URLs  
 
 `/reset` will reset the data in the database with a load of:
  - users
  - jokes
  - heckles
+
   
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
@@ -39,7 +40,7 @@ To run Verademo [MySQL](https://www.mysql.com/) and [Tomcat](https://tomcat.apac
 The simplest way to aquire these on MacOS is via [Homebrew](http://brew.sh/). Install Homebrew then:
 
     brew install mysql tomcat
-
+ 
 ### Database
 
 Set up a database in MySQL called `blab` with a user of `blab` and password `z2^E6J4$;u;d`
